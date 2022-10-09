@@ -35,12 +35,6 @@ To see live demo, click [here](https://haywayaheadshot.github.io/cafemenu/)
 - LinkedIn: [Abubakar Ummar](https://linkedin.com/in/abubakar-ummar-4b6643245)
 
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
 ## Show your support
 
 Give a ⭐️ if you like this project!
